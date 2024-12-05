@@ -4,6 +4,9 @@ Este proyecto demuestra cómo definir **inputs** y **outputs** en un pipeline ut
 
 ## Descripción
 
+![Descripción de la imagen](Imagenes/pipeline.webp)
+Imagen lograda por Inteligencia Artificial
+
 En Azure ML, cada componente de un pipeline puede recibir datos como **input** y generar resultados como **output**, los cuales pueden ser utilizados como **input** para los pasos siguientes. Esto facilita la creación de pipelines modulares, reutilizables y altamente escalables.
 
 En términos prácticos:
